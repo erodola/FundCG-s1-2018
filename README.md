@@ -2,6 +2,10 @@
 
 Course material
 
+### News
+
+- Lectures start on Monday 24 September
+
 ### Logistics
 
 **Who:** Prof. Emanuele Rodolà
@@ -14,7 +18,7 @@ Course material
 
 ### Pre-requisites
 
-bla
+Fundamentals of programming is a must-have, since there are coding assignments; there is no mandatory language, although lecture material will prefer C/C++/Matlab. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
 
 ### Syllabus
 
