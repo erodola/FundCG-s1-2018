@@ -18,15 +18,19 @@ Course material
 
 ### Pre-requisites
 
-Fundamentals of _programming is a must-have_, since there are coding assignments; there is no mandatory language, although lecture material will prefer C/C++/Matlab. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
+Fundamentals of **programming is a must-have**, since there are coding assignments; there is no mandatory language, although lecture material will prefer C/C++/Matlab. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
 
 ### Syllabus
 
 The course will cover topics of 3D shape representation, analysis, processing, matching, and modeling. An emphasis will be put on discrete geometry processing algorithms with applications in computer vision and graphics. Shape rendering and visualization will also be touched upon. The course will start from scratch by reviewing the key mathematical concepts and will proceed step by step up to the most recent advances in the area. Invited lectures from prominent scientists in the field are also expected.
 
+### Text book and reading material
+
+The lectures are not based on any text book in particular. Reading material is provided throughout the lectures and reported on this webpage.
+
 ### Grading
 
-The course will be graded with a mid-term written exam and a final project. The final project will be discussed in an oral examination, and may fall into one of these categories:
+The course will be graded with a **mid-term written exam and a final project**. The final project will be discussed in an oral examination, and may fall into one of these categories:
 
 - In-depth survey of a topic related to the syllabus
 - Coding assignment plus report
@@ -35,4 +39,7 @@ All written reports must be delivered in English. A list of topics / coding proj
 
 ### Lectures
 
-bla
+Date | Topic | Reading
+------------ | ------------- | ------------
+Mon 24 Sep | Introduction | .
+Thu 27 Sep | . | .
