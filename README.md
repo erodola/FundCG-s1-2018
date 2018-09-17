@@ -1,4 +1,6 @@
-## Logistics
+## Fundamentals of Computer Graphics
+
+### Logistics
 
 **When:** Mondays 14:00-16:30 and Thursdays 08:00-10:30 (see the [official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
