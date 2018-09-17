@@ -10,4 +10,20 @@ Course material
 
 **Where:** Aula Magna - Alfa - Sociologia, via Salaria 113
 
-**Office Hours:** Drop me an email at <my-last-name-without-accent>@di.uniroma1.it
+**Office Hours:** Drop me an email at _my-last-name-without-accent@di.uniroma1.it_
+
+### Pre-requisites
+
+bla
+
+### Syllabus
+
+bla
+
+### Grading
+
+The course will be graded with a final project – consisting in an in-depth survey of a topic related to the syllabus, plus a participation grade.
+
+### Lectures
+
+bla
