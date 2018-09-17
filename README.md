@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- Lectures start on Monday 24 September
+- **17/09/2018:** Lectures start on Monday 24 September. Do not miss the first lecture, there are important changes from last year!
 
 ### Logistics
 
@@ -18,7 +18,7 @@ Course material
 
 ### Pre-requisites
 
-Fundamentals of programming is a must-have, since there are coding assignments; there is no mandatory language, although lecture material will prefer C/C++/Matlab. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
+Fundamentals of _programming is a must-have_, since there are coding assignments; there is no mandatory language, although lecture material will prefer C/C++/Matlab. Linear algebra, calculus and numerical methods are nice-to-have, but not essential; the key concepts will be reviewed throughout the course.
 
 ### Syllabus
 
