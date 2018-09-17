@@ -22,11 +22,16 @@ Fundamentals of _programming is a must-have_, since there are coding assignments
 
 ### Syllabus
 
-bla
+The course will cover topics of 3D shape representation, analysis, processing, matching, and modeling. An emphasis will be put on discrete geometry processing algorithms with applications in computer vision and graphics. Shape rendering and visualization will also be touched upon. The course will start from scratch by reviewing the key mathematical concepts and will proceed step by step up to the most recent advances in the area. Invited lectures from prominent scientists in the field are also expected.
 
 ### Grading
 
-The course will be graded with a final project – consisting in an in-depth survey of a topic related to the syllabus, plus a participation grade.
+The course will be graded with a mid-term written exam and a final project. The final project will be discussed in an oral examination, and may fall into one of these categories:
+
+- In-depth survey of a topic related to the syllabus
+- Coding assignment plus report
+
+All written reports must be delivered in English. A list of topics / coding projects will be provided at a later time. 
 
 ### Lectures
 
