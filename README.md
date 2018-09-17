@@ -39,7 +39,7 @@ All written reports must be delivered in English. A list of topics / coding proj
 
 ### Lectures
 
-Date | Topic | Reading
+**Date** | **Topic** | **Reading**
 ------------ | ------------- | ------------
-Mon 24 Sep | Introduction | .
+Mon 24 Sep | Introduction | slides slides slides slides slides slides slides slides slides slides slides
 Thu 27 Sep | . | .
