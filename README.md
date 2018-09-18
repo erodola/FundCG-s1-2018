@@ -39,7 +39,7 @@ All written reports must be delivered in English. A list of topics / coding proj
 
 ### Lectures
 
-**Date** | **Topic** | **Reading**
------------- | ------------- | ------------
-Mon 24 Sep | Introduction | 
-Thu 27 Sep |  | 
+**Date** | **Topic** | **Reading** | **Code & Data**
+------------ | ------------- | ------------ | ------------
+Mon 24 Sep | Introduction | slides (to come) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/blob/master/24.09_intro/code/cat0.off)
+Thu 27 Sep |  |  |
