@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **17/09/2018:** Lectures start on Monday 24 September. Do not miss the first lecture, there are important changes from last year!
+- **27/09/2018:** The code solutions for the exercises from the first lecture has been published.
 
 ### Logistics
 
