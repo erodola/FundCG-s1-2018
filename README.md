@@ -41,7 +41,6 @@ All written reports must be delivered in English. A list of topics / coding proj
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 24 Sep | Introduction; Shape representation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/01-intro.pdf) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off) ; 
-[load_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/load_off.m) ; [save_as_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/save_as_off.m) ; [calc_tri_areas.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_tri_areas.m) ; [calc_boundary_edges.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_boundary_edges.m)
+Mon 24 Sep | Introduction; Shape representation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/01-intro.pdf) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off) ; [load_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/load_off.m) ; [save_as_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/save_as_off.m) ; [calc_tri_areas.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_tri_areas.m) ; [calc_boundary_edges.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_boundary_edges.m)
 Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) |
 Mon 01 Oct | | |
