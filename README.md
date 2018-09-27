@@ -42,5 +42,5 @@ All written reports must be delivered in English. A list of topics / coding proj
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 Mon 24 Sep | Introduction; Shape representation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/01-intro.pdf) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off)
-Thu 27 Sep | Metric geometry |  |
+Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) |
 Mon 01 Oct | | |
