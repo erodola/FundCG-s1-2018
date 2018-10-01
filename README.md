@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **28/09/2018:** **Bring your laptop** for the lectures on Mon 01 and Thu 04! We'll do some live coding.
+- **01/10/2018:** **Bring your laptop** with pre-installed **POV-Ray** for the lecture on Thu 04! We'll do some live coding.
 
 ### Logistics
 
@@ -46,6 +46,7 @@ Mon 24 Sep &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Introduction; Shap
 | | |
 Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) |
 | | |
-Mon 01 Oct | Euclidean embeddings | | [sphere.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/sphere.off) ; [tr_reg_000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/tr_reg_000.off)
+Mon 01 Oct | Euclidean embeddings | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/03-mds.pdf) | [sphere.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/sphere.off) ; [tr_reg_000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/tr_reg_000.off)
 | | |
-Thu 04 Oct | Visualization | |
+Thu 04 Oct | Shape visualization | |
+| | |
