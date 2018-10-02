@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **01/10/2018:** **Bring your laptop** with pre-installed **POV-Ray** for the lecture on Thu 04! We'll do some live coding.
+- **01/10/2018:** **Bring your laptop** with pre-installed [POV-Ray](http://www.povray.org/download/) for the lecture on Thu 04! We'll do some live coding. We'll also use Matlab.
 
 ### Logistics
 
