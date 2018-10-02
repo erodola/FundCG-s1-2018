@@ -48,5 +48,5 @@ Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-201
 | | |
 Mon 01 Oct | Euclidean embeddings | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/03-mds.pdf) | [sphere.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/sphere.off) ; [tr_reg_000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/tr_reg_000.off) ; [geodesic distances for tr_reg_000.off](https://www.dropbox.com/s/v66jvqvxvogn0o7/tr_reg_000.D.mat?dl=0)
 | | |
-Thu 04 Oct | Shape visualization | | [cat_partial.off](https://github.com/erodola/FundCG-s1-2018/raw/master/04.10_viz/code/cat_partial.off)
+Thu 04 Oct | Shape visualization; Piecewise-linear approximation | | [cat_partial.off](https://github.com/erodola/FundCG-s1-2018/raw/master/04.10_viz/code/cat_partial.off)
 | | |
