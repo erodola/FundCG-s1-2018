@@ -50,3 +50,4 @@ Mon 01 Oct | Euclidean embeddings | [slides](https://github.com/erodola/FundCG-s
 | | |
 Thu 04 Oct | Shape visualization I; Piecewise-linear approximation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/04.10_viz/04-visualization.pdf) | [cat_partial.off](https://github.com/erodola/FundCG-s1-2018/raw/master/04.10_viz/code/cat_partial.off)
 | | |
+Mon 08 Oct | Recap of linear algebra | | 
