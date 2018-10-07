@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **01/10/2018:** **Bring your laptop** with pre-installed [POV-Ray](http://www.povray.org/download/) for the lecture on Thu 04! We'll do some live coding. We'll also use Matlab.
+- **07/10/2018:** Matlab solutions for the exercises of 27 Sep have been published (fps_euclidean.m and voronoi_euclidean.m)
 
 ### Logistics
 
@@ -46,7 +46,7 @@ All written reports must be delivered in English. A list of topics / coding proj
 | | |
 Mon 24 Sep | Introduction; Shape representation | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/01-intro.pdf) | [cat0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/cat0.off) ; [load_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/load_off.m) ; [save_as_off.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/save_as_off.m) ; [calc_tri_areas.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_tri_areas.m) ; [calc_boundary_edges.m](https://github.com/erodola/FundCG-s1-2018/raw/master/24.09_intro/code/calc_boundary_edges.m)
 | | |
-Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) |
+Thu 27 Sep | Metric geometry | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/02-metric.pdf) | [fps_euclidean.m](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/code/fps_euclidean.m) ; [voronoi_euclidean.m](https://github.com/erodola/FundCG-s1-2018/raw/master/27.09_metric/code/voronoi_euclidean.m)
 | | |
 Mon 01 Oct | Euclidean embeddings | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/03-mds.pdf) | [sphere.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/sphere.off) ; [tr_reg_000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/01.10_mds/code/tr_reg_000.off) ; [geodesic distances for tr_reg_000.off](https://www.dropbox.com/s/v66jvqvxvogn0o7/tr_reg_000.D.mat?dl=0)
 | | |
