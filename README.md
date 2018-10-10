@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **07/10/2018:** Matlab solutions for the exercises of 27 Sep have been published (fps_euclidean.m and voronoi_euclidean.m)
+- **10/10/2018:** On Monday 15th Oct we will do some live coding. Make sure you have [POV-Ray](http://www.povray.org/) installed in your laptop.
 
 ### Logistics
 
@@ -55,4 +55,6 @@ Thu 04 Oct | Shape visualization I; Piecewise-linear approximation | [slides](ht
 Mon 08 Oct | Recap of linear algebra I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/05-linalg.pdf) ; [A15] | [bunny.off](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/code/bunny.off)
 | | |
 Thu 11 Oct | Assignment problems | | 
+| | |
+Mon 15 Oct | Shape visualization II | | 
 | | |
