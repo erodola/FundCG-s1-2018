@@ -28,7 +28,8 @@ The course will cover topics of 3D shape representation, analysis, processing, m
 
 The lectures are not based on any text book in particular. Reading material suggested throughout the lectures is listed here:
 
-- [A15] S. Axler, "Linear algebra done right - 3rd edition". Springer, 2015.
+- [A15] Axler, "Linear algebra done right - 3rd edition". Springer, 2015.
+- [BBI01] Burago, Burago, Ivanov, "A course in metric geometry". AMS, 2001.
 
 ### Grading
 
@@ -54,7 +55,7 @@ Thu 04 Oct | Shape visualization I; Piecewise-linear approximation | [slides](ht
 | | |
 Mon 08 Oct | Recap of linear algebra I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/05-linalg.pdf) ; [A15] | [bunny.off](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/code/bunny.off)
 | | |
-Thu 11 Oct | Assignment problems | slides ; [RL11](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) | 
+Thu 11 Oct | Assignment problems | slides ; [RL11](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [BBI01] | 
 | | |
 Mon 15 Oct | Shape visualization II | | 
 | | |
