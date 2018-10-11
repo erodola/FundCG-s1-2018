@@ -55,7 +55,7 @@ Thu 04 Oct | Shape visualization I; Piecewise-linear approximation | [slides](ht
 | | |
 Mon 08 Oct | Recap of linear algebra I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/05-linalg.pdf) ; [A15] | [bunny.off](https://github.com/erodola/FundCG-s1-2018/raw/master/08.10_linalg/code/bunny.off)
 | | |
-Thu 11 Oct | Assignment problems | slides ; [RL11](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [BBI01] | [tr_reg_001.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_001.off) ; [tr_reg_002.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_002.off) ; [tr_reg_003.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_003.off) ; [bun000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun000.off) ; [bun045.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun045.off)
+Thu 11 Oct | Assignment problems | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/06-assignment.pdf) ; [RL11](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [BBI01] | [tr_reg_001.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_001.off) ; [tr_reg_002.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_002.off) ; [tr_reg_003.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_003.off) ; [bun000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun000.off) ; [bun045.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun045.off)
 | | |
 Mon 15 Oct | Shape visualization II | | 
 | | |
