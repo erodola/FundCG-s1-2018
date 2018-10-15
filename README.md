@@ -30,6 +30,7 @@ The lectures are not based on any text book in particular. Reading material sugg
 
 - [A15] Axler, "Linear algebra done right - 3rd edition". Springer, 2015.
 - [BBI01] Burago, Burago, Ivanov, "A course in metric geometry". AMS, 2001.
+- [POV] [POV-Ray reference](http://www.povray.org/documentation/3.7.0/r3_0.html)
 
 ### Grading
 
@@ -57,5 +58,7 @@ Mon 08 Oct | Recap of linear algebra I | [slides](https://github.com/erodola/Fun
 | | |
 Thu 11 Oct | Assignment problems | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/06-assignment.pdf) ; [RL11](http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf) ; [BBI01] | [tr_reg_001.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_001.off) ; [tr_reg_002.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_002.off) ; [tr_reg_003.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/tr_reg_003.off) ; [bun000.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun000.off) ; [bun045.off](https://github.com/erodola/FundCG-s1-2018/raw/master/11.10_qap/code/bun045.off)
 | | |
-Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/07-visualization2.pdf) | [cat2.off](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/cat2.off) ; [load_mesh.inc](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/load_mesh.inc) ; [save_mesh_povray.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/save_mesh_povray.m) ; [demo.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/demo.m) ; [render.pov](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/render.pov)
+Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/07-visualization2.pdf) ; [POV] | [cat2.off](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/cat2.off) ; [load_mesh.inc](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/load_mesh.inc) ; [save_mesh_povray.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/save_mesh_povray.m) ; [demo.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/demo.m) ; [render.pov](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/render.pov)
+| | |
+Thu 18 Oct | Recap of linear algebra II | |
 | | |
