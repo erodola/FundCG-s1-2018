@@ -60,5 +60,5 @@ Thu 11 Oct | Assignment problems | [slides](https://github.com/erodola/FundCG-s1
 | | |
 Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/07-visualization2.pdf) ; [POV] | [cat2.off](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/cat2.off) ; [load_mesh.inc](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/load_mesh.inc) ; [save_mesh_povray.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/save_mesh_povray.m) ; [demo.m](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/demo.m) ; [render.pov](https://github.com/erodola/FundCG-s1-2018/raw/master/15.10_viz2/code/render.pov)
 | | |
-Thu 18 Oct | Recap of linear algebra II | |
+Thu 18 Oct | Recap of linear algebra II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/08-linalg2.pdf) ; [A15] | [tr_reg_010.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_010.off) ; [tr_reg_031.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_031.off)
 | | |
