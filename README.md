@@ -34,7 +34,7 @@ The lectures are not based on any text book in particular. Reading material sugg
 
 ### Grading
 
-The course will be graded with a **mid-term written exam and a final project**. The final project will be discussed in an oral examination, and may fall into one of these categories:
+The course will be graded with a **mid-term written exam (Nov 05) and a final project**. The final project will be discussed in an oral examination, and may fall into one of these categories:
 
 - In-depth survey of a topic related to the syllabus
 - Coding assignment plus report
@@ -62,5 +62,9 @@ Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG
 | | |
 Thu 18 Oct | Recap of linear algebra II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/08-linalg2.pdf) ; [A15] | [tr_reg_010.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_010.off) ; [tr_reg_031.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_031.off)
 | | |
-Mon 25 Oct | | |
+Thu 25 Oct | | |
+| | |
+Mon 29 Oct | | |
+| | |
+Mon 05 Nov | **Midterm exam** | |
 | | |
