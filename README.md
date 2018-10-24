@@ -62,7 +62,7 @@ Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG
 | | |
 Thu 18 Oct | Recap of linear algebra II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/08-linalg2.pdf) ; [A15] | [tr_reg_010.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_010.off) ; [tr_reg_031.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_031.off)
 | | |
-Thu 25 Oct | Wrap-up | | [dog0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog0.off) ; [dog.sym.labels](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog.sym.labels)
+Thu 25 Oct | Wrap-up | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/09-wrapup.pdf) | [dog0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog0.off) ; [dog.sym.labels](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog.sym.labels)
 | | |
 Mon 29 Oct | | |
 | | |
