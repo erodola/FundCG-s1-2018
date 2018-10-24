@@ -62,9 +62,9 @@ Mon 15 Oct | Shape visualization II | [slides](https://github.com/erodola/FundCG
 | | |
 Thu 18 Oct | Recap of linear algebra II | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/08-linalg2.pdf) ; [A15] | [tr_reg_010.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_010.off) ; [tr_reg_031.off](https://github.com/erodola/FundCG-s1-2018/raw/master/18.10_linalg2/code/tr_reg_031.off)
 | | |
-Thu 25 Oct | | |
+Thu 25 Oct | Wrap-up | |
 | | |
 Mon 29 Oct | | |
 | | |
-Mon 05 Nov | **Midterm exam** | |
+Mon 05 Nov | **Midterm evaluation** | |
 | | |
