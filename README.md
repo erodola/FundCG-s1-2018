@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **18/10/2018:** There will be **no class** on Mon 22 Oct; see you on Thu 25 Oct!
+- **26/10/2018:** There will be some live coding on Mon 29 Oct: bring your laptop if you want to test things live.
 
 ### Logistics
 
