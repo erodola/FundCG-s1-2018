@@ -64,7 +64,7 @@ Thu 18 Oct | Recap of linear algebra II | [slides](https://github.com/erodola/Fu
 | | |
 Thu 25 Oct | Wrap-up | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/09-wrapup.pdf) | [dog0.off](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog0.off) ; [dog.sym.labels](https://github.com/erodola/FundCG-s1-2018/raw/master/25.10_wrapup/code/dog.sym.labels)
 | | |
-Mon 29 Oct | Mesh processing I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/29.10_proc/10-processing.pdf) |
+Mon 29 Oct | Mesh processing I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/29.10_proc/10-processing.pdf) ; [SC04](https://igl.ethz.ch/projects/Laplacian-mesh-processing/ls-meshes/ls-meshes.pdf) |
 | | |
 Mon 05 Nov | **Midterm evaluation** | |
 | | |
