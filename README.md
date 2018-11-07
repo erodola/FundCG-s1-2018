@@ -68,3 +68,5 @@ Mon 05 Nov | **Midterm evaluation** | |
 | | |
 Thu 08 Nov | Mesh processing I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/08.11_proc/10-processing.pdf) ; [SC04](https://igl.ethz.ch/projects/Laplacian-mesh-processing/ls-meshes/ls-meshes.pdf) |
 | | |
+Mon 12 Nov | Regular surfaces | |
+| | |
