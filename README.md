@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **28/10/2018:** The lecture of Mon 29 Oct is **cancelled**. See you on Mon 05 Nov for the midterm!
+- **11/11/2018:** A selection of projects for the final exam will be given on Thu 15 Nov.
 
 ### Logistics
 
@@ -31,6 +31,7 @@ The lectures are not based on any text book in particular. Reading material sugg
 - [A15] Axler, "Linear algebra done right - 3rd edition". Springer, 2015.
 - [BBI01] Burago, Burago, Ivanov, "A course in metric geometry". AMS, 2001.
 - [POV] [POV-Ray reference](http://www.povray.org/documentation/3.7.0/r3_0.html)
+- [dC76] Do Carmo, "Differential geometry of curves and surfaces". Prentice-Hall, 1976.
 
 ### Grading
 
@@ -68,5 +69,7 @@ Mon 05 Nov | **Midterm evaluation** | |
 | | |
 Thu 08 Nov | Mesh processing I | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/08.11_proc/10-processing.pdf) ; [SC04](https://igl.ethz.ch/projects/Laplacian-mesh-processing/ls-meshes/ls-meshes.pdf) |
 | | |
-Mon 12 Nov | Regular surfaces | |
+Mon 12 Nov | Regular surfaces | slides ; [dC76] |
+| | |
+Thu 15 Nov | **Projects** | |
 | | |
