@@ -73,3 +73,5 @@ Mon 12 Nov | Regular surfaces | [slides](https://github.com/erodola/FundCG-s1-20
 | | |
 Thu 15 Nov | **Projects** | |
 | | |
+Mon 19 Nov | | |
+| | |
