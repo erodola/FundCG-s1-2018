@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **19/11/2018:** Grades from the midterm evaluation are now published.
+- **19/11/2018:** Grades for the midterm evaluation are now published.
 
 ### Logistics
 
@@ -35,7 +35,7 @@ The lectures are not based on any text book in particular. Reading material sugg
 
 ### Grading
 
-Grades for the midterm evaluation are available [here](https://github.com/erodola/FundCG-s1-2018/raw/master/midterm.pdf)
+Grades for the midterm evaluation are available [here](https://github.com/erodola/FundCG-s1-2018/raw/master/midterm.pdf).
 
 The **final project** will be discussed in an oral examination, and may fall into one of these categories:
 
