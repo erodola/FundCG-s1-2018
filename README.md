@@ -73,5 +73,5 @@ Mon 12 Nov | Regular surfaces | [slides](https://github.com/erodola/FundCG-s1-20
 | | |
 Thu 15 Nov | **Projects** | |
 | | |
-Mon 19 Nov | Lengths and areas | [slides (pdf)] ; [slides (pptx)] ; [dC76] |
+Mon 19 Nov | Lengths and areas | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/19.11_diff2/12-lengths.pdf) ; [slides (pptx)](https://github.com/erodola/FundCG-s1-2018/raw/master/19.11_diff2/12-lengths.pptx) ; [dC76] |
 | | |
