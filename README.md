@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **11/11/2018:** A selection of projects for the final exam will be given on Thu 15 Nov.
+- **19/11/2018:** Grades from the midterm evaluation are now published.
 
 ### Logistics
 
@@ -35,12 +35,14 @@ The lectures are not based on any text book in particular. Reading material sugg
 
 ### Grading
 
-The course will be graded with a **mid-term written exam (Nov 05) and a final project**. The final project will be discussed in an oral examination, and may fall into one of these categories:
+Grades for the midterm evaluation are available [here](https://github.com/erodola/FundCG-s1-2018/raw/master/midterm.pdf)
+
+The **final project** will be discussed in an oral examination, and may fall into one of these categories:
 
 - In-depth survey of a topic related to the syllabus
 - Coding assignment plus report
 
-All written reports must be delivered in English. A list of topics / coding projects will be provided at a later time. 
+All written reports must be delivered in English. A list of topics / coding projects will be published soon. 
 
 ### Lectures
 
