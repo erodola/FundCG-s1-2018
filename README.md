@@ -4,6 +4,7 @@ Course material
 
 ### News
 
+- **20/11/2018:** A list of projects for the final exam is now published.
 - **19/11/2018:** Grades for the midterm evaluation are now published.
 
 ### Logistics
@@ -42,7 +43,7 @@ The **final project** will be discussed in an oral examination, and may fall int
 - In-depth survey of a topic related to the syllabus
 - Coding assignment plus report
 
-All written reports must be delivered in English. A non-definitive list of topics / coding projects is the following:
+A non-definitive list of topics / coding projects is the following:
 
 - ["Biharmonic distance"](https://gfx.cs.princeton.edu/pubs/Lipman_2010_BD/index.php)
 - ["Earth mover’s distances on discrete surfaces"](http://people.csail.mit.edu/jsolomon/#research)
@@ -50,6 +51,12 @@ All written reports must be delivered in English. A non-definitive list of topic
 - ["Blended intrinsic maps"](https://gfx.cs.princeton.edu/pubs/Kim_2011_BIM/index.php)
 - ["Partial functional correspondence"](https://sites.google.com/site/erodola/publications)
 - ["Fast approximation of Laplace-Beltrami eigenproblems"](https://graphics.tudelft.nl/publications/)
+- ["An operator approach to tangent vector field processing"](https://mirela.net.technion.ac.il/publications/)
+- ["Linear rotation-invariant coordinates for meshes"](http://www.wisdom.weizmann.ac.il/~ylipman/rotation_invariant.pdf)
+- ["Deblurring and denoising of maps between shapes"](https://mirela.net.technion.ac.il/publications/)
+- ["As-rigid-as-possible surface modeling"](https://www.igl.ethz.ch/projects/ARAP/arap_web.pdf)
+- ["Bounded biharmonic weights for real-time deformation"](http://igl.ethz.ch/projects/bbw/)
+- ["Convolutional Wasserstein distances"](http://people.csail.mit.edu/jsolomon/#research)
 
 ### Lectures
 
