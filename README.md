@@ -42,7 +42,14 @@ The **final project** will be discussed in an oral examination, and may fall int
 - In-depth survey of a topic related to the syllabus
 - Coding assignment plus report
 
-All written reports must be delivered in English. A list of topics / coding projects will be published soon. 
+All written reports must be delivered in English. A non-definitive list of topics / coding projects is the following:
+
+- ["Biharmonic distance"](https://gfx.cs.princeton.edu/pubs/Lipman_2010_BD/index.php)
+- ["Earth mover’s distances on discrete surfaces"](http://people.csail.mit.edu/jsolomon/#research)
+- ["Geodesics in heat"](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/)
+- ["Blended intrinsic maps"](https://gfx.cs.princeton.edu/pubs/Kim_2011_BIM/index.php)
+- ["Partial functional correspondence"](https://sites.google.com/site/erodola/publications)
+- ["Fast approximation of Laplace-Beltrami eigenproblems"](https://graphics.tudelft.nl/publications/)
 
 ### Lectures
 
