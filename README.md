@@ -91,5 +91,5 @@ Thu 15 Nov | **Projects** | |
 | | |
 Mon 19 Nov | Lengths and areas | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/19.11_diff2/12-lengths.pdf) ; [slides (pptx)](https://github.com/erodola/FundCG-s1-2018/raw/master/19.11_diff2/12-lengths.pptx) ; [dC76] |
 | | |
-Thu 22 Nov | | |
+Thu 22 Nov | The gradient | |
 | | |
