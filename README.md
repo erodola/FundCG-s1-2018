@@ -93,3 +93,5 @@ Mon 19 Nov | Lengths and areas | [slides (pdf)](https://github.com/erodola/FundC
 | | |
 Thu 22 Nov | The gradient | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/22.11_grad/13-gradient.pdf) ; [slides (pptx)](https://github.com/erodola/FundCG-s1-2018/raw/master/22.11_grad/13-gradient.pptx) |
 | | |
+Mon 26 Nov | | |
+| | |
