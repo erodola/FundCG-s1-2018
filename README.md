@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **20/11/2018:** A list of projects for the final exam is now published.
+- **27/11/2018:** A new project has been published ("Shape DNA").
 
 ### Logistics
 
@@ -56,6 +56,7 @@ A non-definitive list of topics / coding projects is the following:
 - ["As-rigid-as-possible surface modeling"](https://www.igl.ethz.ch/projects/ARAP/arap_web.pdf)
 - ["Bounded biharmonic weights for real-time deformation"](http://igl.ethz.ch/projects/bbw/)
 - ["Convolutional Wasserstein distances"](http://people.csail.mit.edu/jsolomon/#research)
+- ["Laplace-Beltrami spectra as 'Shape-DNA' of surfaces and solids"](http://reuter.mit.edu/papers/reuter-shapeDNA06.pdf)
 
 ### Lectures
 
