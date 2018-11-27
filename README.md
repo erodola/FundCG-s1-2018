@@ -5,7 +5,6 @@ Course material
 ### News
 
 - **20/11/2018:** A list of projects for the final exam is now published.
-- **19/11/2018:** Grades for the midterm evaluation are now published.
 
 ### Logistics
 
@@ -95,5 +94,5 @@ Thu 22 Nov | The gradient | [slides (pdf)](https://github.com/erodola/FundCG-s1-
 | | |
 Mon 26 Nov | The Laplace-Beltrami operator | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/26.11_lbo/14-laplacian.pdf) |
 | | |
-Thu 29 Nov | | |
+Thu 29 Nov | Spectral geometry | |
 | | |
