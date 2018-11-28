@@ -93,7 +93,7 @@ Mon 19 Nov | Lengths and areas | [slides (pdf)](https://github.com/erodola/FundC
 | | |
 Thu 22 Nov | The gradient | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/22.11_grad/13-gradient.pdf) ; [slides (pptx)](https://github.com/erodola/FundCG-s1-2018/raw/master/22.11_grad/13-gradient.pptx) |
 | | |
-Mon 26 Nov | The Laplace-Beltrami operator | [slides (pdf)](https://github.com/erodola/FundCG-s1-2018/raw/master/26.11_lbo/14-laplacian.pdf) |
+Mon 26 Nov | The Laplace-Beltrami operator | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/26.11_lbo/14-laplacian.pdf) |
 | | |
 Thu 29 Nov | Spectral geometry | slides | [deadpool.off](https://github.com/erodola/FundCG-s1-2018/raw/master/29.11_spectral/code/deadpool.off)
 | | |
