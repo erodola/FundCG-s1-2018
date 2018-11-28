@@ -97,3 +97,5 @@ Mon 26 Nov | The Laplace-Beltrami operator | [slides (pdf)](https://github.com/e
 | | |
 Thu 29 Nov | Spectral geometry | slides | [deadpool.off](https://github.com/erodola/FundCG-s1-2018/raw/master/29.11_spectral/code/deadpool.off)
 | | |
+Mon 03 Dec | | | 
+| | |
