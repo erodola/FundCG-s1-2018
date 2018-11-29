@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **27/11/2018:** A new project has been published ("Shape DNA").
+- **29/11/2018:** Two new projects have been published ("Shape DNA" and "Mean curvature flow").
 
 ### Logistics
 
@@ -57,6 +57,7 @@ A non-definitive list of topics / coding projects is the following:
 - ["Bounded biharmonic weights for real-time deformation"](http://igl.ethz.ch/projects/bbw/)
 - ["Convolutional Wasserstein distances"](http://people.csail.mit.edu/jsolomon/#research)
 - ["Laplace-Beltrami spectra as 'Shape-DNA' of surfaces and solids"](http://reuter.mit.edu/papers/reuter-shapeDNA06.pdf)
+- ["Can mean-curvature flow be made non-singular?"](https://arxiv.org/pdf/1203.6819.pdf)
 
 ### Lectures
 
