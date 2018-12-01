@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **29/11/2018:** Two new projects have been published ("Shape DNA" and "Mean curvature flow").
+- **01/12/2018:** Paper reading + live coding session on Monday 03 Dec. Bring your laptop for a better experience!
 
 ### Logistics
 
