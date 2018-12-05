@@ -4,6 +4,7 @@ Course material
 
 ### News
 
+- **05/12/2018:** The lecture on Mon 17 Dec is **cancelled** due to the ITMeeting taking place in our department.
 - **05/12/2018:** The lecture on Mon 10 Dec is **moved to Aula Seminari** (3rd floor of the building in via Salaria).
 
 ### Logistics
@@ -104,3 +105,6 @@ Thu 06 Dec | Heat diffusion | slides ; [SOG09](http://www.lix.polytechnique.fr/~
 | | |
 Mon 10 Dec | | |
 | | |
+Thu 13 Dec | | |
+| | |
+Thu 20 Dec | | |
