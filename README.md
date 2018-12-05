@@ -101,10 +101,11 @@ Thu 29 Nov | Spectral geometry | [slides](https://github.com/erodola/FundCG-s1-2
 | | |
 Mon 03 Dec | Paper reading: Functional maps | [paper](http://www.lix.polytechnique.fr/~maks/papers/obsbg_fmaps.pdf) | 
 | | |
-Thu 06 Dec | Heat diffusion | slides ; [SOG09](http://www.lix.polytechnique.fr/~maks/papers/hks.pdf) ; [C05](http://www.pnas.org/content/pnas/102/21/7426.full.pdf) | 
+Thu 06 Dec | Heat diffusion | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/06.12_heat/16-heat.pdf) ; [SOG09](http://www.lix.polytechnique.fr/~maks/papers/hks.pdf) ; [C05](http://www.pnas.org/content/pnas/102/21/7426.full.pdf) | 
 | | |
 Mon 10 Dec | | |
 | | |
 Thu 13 Dec | | |
 | | |
 Thu 20 Dec | | |
+--- | | |
