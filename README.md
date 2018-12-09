@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **09/12/2018:** Bring your laptop for the Mon 10 Dec lecture. We will do coding exercises in preparation for the final exam.
+- **09/12/2018:** **Bring your laptop for the Mon 10 Dec lecture**. We will do coding exercises in preparation for the final exam.
 - **05/12/2018:** The lecture on Mon 17 Dec is **cancelled** due to the ITMeeting taking place in our department.
 - **05/12/2018:** The lecture on Mon 10 Dec is **moved to Aula Seminari** (3rd floor of the building in via Salaria).
 
@@ -104,7 +104,7 @@ Mon 03 Dec | Paper reading: Functional maps | [paper](http://www.lix.polytechniq
 | | |
 Thu 06 Dec | Heat diffusion | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/06.12_heat/16-heat.pdf) ; [SOG09](http://www.lix.polytechnique.fr/~maks/papers/hks.pdf) ; [C05](http://www.pnas.org/content/pnas/102/21/7426.full.pdf) | 
 | | |
-Mon 10 Dec | | |
+Mon 10 Dec | Exercises | |
 | | |
 Thu 13 Dec | | |
 | | |
