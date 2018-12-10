@@ -4,9 +4,7 @@ Course material
 
 ### News
 
-- **09/12/2018:** **Bring your laptop for the Mon 10 Dec lecture**. We will do coding exercises in preparation for the final exam.
 - **05/12/2018:** The lecture on Mon 17 Dec is **cancelled** due to the ITMeeting taking place in our department.
-- **05/12/2018:** The lecture on Mon 10 Dec is **moved to Aula Seminari** (3rd floor of the building in via Salaria).
 
 ### Logistics
 
