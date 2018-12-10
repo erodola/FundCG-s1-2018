@@ -104,7 +104,7 @@ Mon 03 Dec | Paper reading: Functional maps | [paper](http://www.lix.polytechniq
 | | |
 Thu 06 Dec | Heat diffusion | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/06.12_heat/16-heat.pdf) ; [SOG09](http://www.lix.polytechnique.fr/~maks/papers/hks.pdf) ; [C05](http://www.pnas.org/content/pnas/102/21/7426.full.pdf) | 
 | | |
-Mon 10 Dec | Exercises | | [calc_LB_FEM.m](https://github.com/erodola/FundCG-s1-2018/raw/master/10.12_ex/code/calc_LB_FEM.m)
+Mon 10 Dec | Exercises | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/10.12_ex/17-exercise.pdf) | [calc_LB_FEM.m](https://github.com/erodola/FundCG-s1-2018/raw/master/10.12_ex/code/calc_LB_FEM.m)
 | | |
 Thu 13 Dec | | |
 | | |
