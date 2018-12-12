@@ -104,7 +104,7 @@ Thu 06 Dec | Heat diffusion | [slides](https://github.com/erodola/FundCG-s1-2018
 | | |
 Mon 10 Dec | Exercises | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/10.12_ex/17-exercise.pdf) ; [MRCB18](http://vision.in.tum.de/_media/spezial/bib/melzi-cgf18.pdf) | [calc_LB_FEM.m](https://github.com/erodola/FundCG-s1-2018/raw/master/10.12_ex/code/calc_LB_FEM.m)
 | | |
-Thu 13 Dec | Hearing the shape of the drum | [slides] |
+Thu 13 Dec | Talk: Isospectralization | [slides] |
 | | |
 Thu 20 Dec | | |
 | | |
