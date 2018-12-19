@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **05/12/2018:** The lecture on Mon 17 Dec is **cancelled** due to the ITMeeting taking place in our department. You are all encouraged to participate!
+- **19/12/2018:** Students who have not selected the project are encouraged to do so quickly (even just a vague idea) and communicate it to the teacher.
 
 ### Logistics
 
@@ -12,7 +12,7 @@ Course material
 
 **When:** Mondays 14:00-16:30 and Thursdays 08:00-10:30 (see the [official schedule](https://www.studiareinformatica.uniroma1.it/laurea-magistrale/orario-lezioni))
 
-**Where:** Aula Magna - Alfa - Sociologia, via Salaria 113
+**Where:** Aula Alfa - Sociologia, via Salaria 113
 
 **Office Hours:** Drop me an email at _my-last-name-without-accent@di.uniroma1.it_
 
