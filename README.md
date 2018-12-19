@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **19/12/2018:** Students who have not selected the project are encouraged to do so quickly (even just a vague idea) and communicate it to the teacher.
+- **19/12/2018:** Students who have not selected the project yet are encouraged to do so quickly (even just a vague idea) and communicate it to the teacher.
 
 ### Logistics
 
