@@ -107,6 +107,6 @@ Mon 10 Dec | Exercises | [slides](https://github.com/erodola/FundCG-s1-2018/raw/
 | | |
 Thu 13 Dec | Talk: Isospectralization | [slides](https://github.com/erodola/FundCG-s1-2018/raw/master/13.12_iso/slides.pdf) ; [CPROBR18](https://arxiv.org/pdf/1811.11465.pdf) |
 | | |
-Thu 20 Dec | Current and future perspectives | [RPWO18](http://www.lix.polytechnique.fr/~maks/papers/BCICP_SIGAsia18.pdf) ; [WHOG14](http://www.lix.polytechnique.fr/~maks/papers/wang-CVPR-14.pdf) ; [RO13](http://www.lix.polytechnique.fr/~maks/papers/map_exploration.pdf) ; [RLBBS18](https://arxiv.org/pdf/1809.10940.pdf) ;  |
+Thu 20 Dec | Current and future perspectives | [RPWO18](http://www.lix.polytechnique.fr/~maks/papers/BCICP_SIGAsia18.pdf) ; [WHOG14](http://www.lix.polytechnique.fr/~maks/papers/wang-CVPR-14.pdf) ; [RO13](http://www.lix.polytechnique.fr/~maks/papers/map_exploration.pdf) ; [RLBBS18](https://arxiv.org/pdf/1809.10940.pdf) ; [MBBV15](https://arxiv.org/pdf/1501.06297.pdf) |
 | | |
 | **End** | |
