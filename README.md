@@ -4,8 +4,7 @@ Course material
 
 ### News
 
-- **20/12/2018:** The course is over. Hope everyone had fun, good luck with your project and see you for the final exam!
-- **19/12/2018:** Students who have not selected the project yet are encouraged to do so quickly (even just a vague idea) and communicate it to the teacher.
+- **17/01/2019:** The exam dates are from 27 Jan to 20 Feb 2019. You are supposed to **register on Infostud within 27 Jan**. Then contact me directly to fix the exact date and place.
 
 ### Logistics
 
