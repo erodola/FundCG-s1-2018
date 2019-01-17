@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **17/01/2019:** The exam dates are from 27 Jan to 20 Feb 2019. You are supposed to **register on Infostud within 27 Jan**. Then contact me directly to fix the exact date and place.
+- **17/01/2019:** The exam dates are from 28 Jan to 20 Feb 2019. You are supposed to **register on Infostud within 27 Jan**. Then contact me directly to fix the exact date and place.
 
 ### Logistics
 
