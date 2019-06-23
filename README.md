@@ -4,7 +4,7 @@ Course material
 
 ### News
 
-- **17/01/2019:** The exam dates are from 28 Jan to 20 Feb 2019. You are supposed to **register on Infostud within 27 Jan**. Then contact me directly to fix the exact date and place.
+- **23/06/2019:** The final exam dates are **from 15 Jul to 19 Jul 2019**. Please contact me directly to fix the exact date and time, and remember to register on Infostud.
 
 ### Logistics
 
